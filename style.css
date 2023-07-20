@@ -130,7 +130,6 @@ footer {
 @media (min-width:490px) {
     .page {
         max-width: 1050px;
-        border: 1px solid black;
         margin: 0;
     }
     
